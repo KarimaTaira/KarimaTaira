@@ -6,7 +6,6 @@
 🌱 &nbsp;I'm on track for learning more about Blockchain, Devops, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I particapate in volleyball competition as hobbie and also gym.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at taira.karima21@gmail.com ! \
 
 ### 🛠 &nbsp;Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
