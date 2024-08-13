@@ -17,7 +17,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)&nbsp;
-
+![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimaTaira&show_icons=true&theme=transparent)
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/KarimaTaira">
