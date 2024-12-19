@@ -19,6 +19,7 @@
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)&nbsp;
 
 ### 🚀 &nbsp; Badges 
-![image](https://github.com/user-attachments/assets/82363bfe-c426-432e-ab02-6baea7edccf3)
-![image](https://github.com/user-attachments/assets/02101bdd-48ce-4182-a567-cc59eac70901)
+<img src="https://github.com/user-attachments/assets/82363bfe-c426-432e-ab02-6baea7edccf3" width="200" />
+<img src="https://github.com/user-attachments/assets/02101bdd-48ce-4182-a567-cc59eac70901" width="200" />
+
 
