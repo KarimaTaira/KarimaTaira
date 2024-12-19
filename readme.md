@@ -5,7 +5,7 @@
 🎓 &nbsp;I graduted as Computer Science Engineer from Mohammadia School of Engineers .\
 🌱 &nbsp;I'm on track for learning more about Blockchain, Devops, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I particapate in volleyball competitions as hobbie and also gym.\
-💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for some interesting discussion.
 
 ### 🛠 &nbsp;Tech Stack
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
@@ -17,3 +17,8 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)&nbsp;
+
+### 🚀 &nbsp; Badges 
+![image](https://github.com/user-attachments/assets/82363bfe-c426-432e-ab02-6baea7edccf3)
+![image](https://github.com/user-attachments/assets/02101bdd-48ce-4182-a567-cc59eac70901)
+
