@@ -4,7 +4,6 @@
 📍 &nbsp;I'm currently working as Associate Solution engineer at The Hashgraph Association.\
 🎓 &nbsp;I graduted as Computer Science Engineer from Mohammadia School of Engineers .\
 🌱 &nbsp;I'm on track for learning more about Blockchain, Devops, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I particapate in volleyball competitions as hobbie and also gym.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.
 
 ### 🛠 &nbsp;Tech Stack
