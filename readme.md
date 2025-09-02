@@ -20,5 +20,5 @@
 ### 🚀 &nbsp; Badges 
 <img src="https://github.com/user-attachments/assets/82363bfe-c426-432e-ab02-6baea7edccf3" width="200" />
 <img src="https://github.com/user-attachments/assets/02101bdd-48ce-4182-a567-cc59eac70901" width="200" />
-
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/159826668" width="200" />
 
