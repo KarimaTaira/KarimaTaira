@@ -25,4 +25,3 @@
   <img src="https://github.com/user-attachments/assets/e85b918b-e170-419e-958e-01de49571073" width="100" />
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarimaTaira&theme=dark)
