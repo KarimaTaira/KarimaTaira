@@ -25,4 +25,4 @@
   <img src="https://github.com/user-attachments/assets/e85b918b-e170-419e-958e-01de49571073" width="100" />
 </div>
 
-![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Karima's GitHub stats](https://github-readme-stats.vercel.app/api?username=KarimaTaira&show_icons=true&theme=radical)
