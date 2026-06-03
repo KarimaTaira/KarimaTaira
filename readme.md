@@ -1,7 +1,7 @@
  ## 👋 &nbsp;Hey there! I'm Karima 
 
 ### ✌🏻 &nbsp;About Me
-📍 &nbsp;I'm currently working as Associate Solution engineer at The Hashgraph Association.\
+📍 &nbsp;I'm currently working as DevOps engineer at The Hashgraph Group.\
 🎓 &nbsp;I graduted as Computer Science Engineer from Mohammadia School of Engineers .\
 🌱 &nbsp;I'm on track for learning more about Blockchain, Devops, and Cloud Architecture.\
 
