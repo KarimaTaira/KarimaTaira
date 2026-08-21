@@ -61,6 +61,6 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KarimaTaira&show_icons=true&theme=default" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarimaTaira" height="165" />
 </p>
