@@ -1,26 +1,33 @@
- ## 👋 &nbsp;Hey there! I'm Karima 
+<h1 align="center">Hey there, I'm Karima 👋</h1>
+<h3 align="center">DevOps / SRE Engineer — Cloud Infrastructure, Automation & Reliability</h3>
 
-### ✌🏻 &nbsp;About Me
-📍 &nbsp;I'm currently working as DevOps engineer at The Hashgraph Group.\
-🎓 &nbsp;I graduted as Computer Science Engineer from Mohammadia School of Engineers .\
-🌱 &nbsp;I'm on track for learning more about Blockchain, Devops, and Cloud Architecture.\
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:taira.karima21@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"></a>
+</p>
 
-### 🛠 &nbsp;Tech Stack
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=flat=python&logo=python&logoColor=ffdd54)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=flat&logo=jupyter&logoColor=white)&nbsp;
+---
 
-### 🚀 &nbsp; Badges 
-<div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/82363bfe-c426-432e-ab02-6baea7edccf3" width="100" />
-  <img src="https://github.com/user-attachments/assets/02101bdd-48ce-4182-a567-cc59eac70901" width="100" />
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/159826668" width="100" />
-  <img src="https://github.com/user-attachments/assets/e85b918b-e170-419e-958e-01de49571073" width="100" />
-</div>
+### 👀 About Me
 
+- 🔭 Currently working as **SRE / Cloud Engineer** at **The Hashgraph Group**, operating production AWS & Kubernetes environments
+- 🎓 Engineering degree in Computer Science from **École Mohammadia d'Ingénieurs (EMI)**
+- ⚙️ Focused on **Infrastructure as Code**, **CI/CD automation**, and **observability** to keep production systems fast, reliable, and cost-efficient
+- 📈 Applying SRE practices daily: SLIs/SLOs, incident response, on-call, root cause analysis
+- 🌱 Currently preparing the **Certified Kubernetes Administrator (CKA)** exam
+- 🏆 SRE Foundation certified (DevOps Institute, 2025)
+- 💬 Ask me about: AWS, Kubernetes, Terraform, GitOps, observability tooling
+
+---
+
+### 🛠 Tech Stack
+
+**Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=flat&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat&logo=argo&logoColor=white)
+
+**Observability**
