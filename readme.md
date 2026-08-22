@@ -1,22 +1,15 @@
-# Hi, I'm Karima 👋
+## Hi, I'm Karima 👋
 
 **DevOps / SRE Engineer — Cloud Infrastructure, Automation & Reliability**
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:taira.karima21@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)](https://github.com/KarimaTaira)
-
 ---
 
 ## About Me
-
-- 🔭 Currently working as **SRE / Cloud Engineer** at **The Hashgraph Group**, operating production AWS & Kubernetes environments
 - 🎓 Engineering degree in Computer Science from **École Mohammadia d'Ingénieurs (EMI)**
+- 🔭 Currently working as **SRE / Cloud Engineer** at **The Hashgraph Group**, operating production AWS & Kubernetes environments
 - ⚙️ Focused on **Infrastructure as Code**, **CI/CD automation**, and **observability** to keep production systems fast, reliable, and cost-efficient
 - 📈 Applying SRE practices daily: SLIs/SLOs, incident response, on-call, root cause analysis
-- 🌱 Currently preparing the **Certified Kubernetes Administrator (CKA)** exam
-- 🏆 SRE Foundation certified (DevOps Institute, 2025)
-- 💬 Ask me about: AWS, Kubernetes, Terraform, GitOps, observability tooling
+- 💬 let's connect [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/karima-taira)
 
 ---
 
@@ -30,7 +23,7 @@
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-%230F1689.svg?style=flat-square&logo=helm&logoColor=white)
 ![ArgoCD](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat-square&logo=argo&logoColor=white)
-
+![Crossplane](https://img.shields.io/badge/ArgoCD-%23EF7B4D.svg?style=flat-square&logo=crossplane&logoColor=white)
 **Observability**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=flat-square&logo=prometheus&logoColor=white)
@@ -59,8 +52,3 @@
 <img src="https://github.com/user-attachments/assets/e85b918b-e170-419e-958e-01de49571073" width="100" />
 
 ---
-
-## GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=KarimaTaira&show_icons=true&theme=default&hide_border=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimaTaira&layout=compact&theme=default&hide_border=true" height="165" />
