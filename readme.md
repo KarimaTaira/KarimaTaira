@@ -39,9 +39,9 @@ $ echo $CURRENT_FOCUS
 </td>
 <td width="34%" align="center" valign="top">
 
-**pane[0b]:webcam.svg — 320×320**
+**pane[0b]:webcam.gif — 320×320**
 
-<img src="./assets/karima_pixel_avatar_circle.svg" width="170" alt="Karima pixel avatar"/>
+<img src="./assets/karima_pixel_avatar_circle.gif" width="170" alt="Karima pixel avatar"/>
 
 `[LIVE]` 🟢 `uptime: 4y`
 
