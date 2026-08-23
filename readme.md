@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner_head.svg" width="100%"/>
+<img src="./assets/banner_header.svg" width="100%"/>
 
 </div>
 
@@ -115,11 +115,7 @@ $ systemctl status karima.service
 $ tail -f ~/status.log
 ```
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KarimaTaira&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0F1520&title_color=5CF19E&icon_color=F2B84B&text_color=7A8699" width="58%"/>
-
-</div>
+<img src="./assets/stats.svg" width="100%"/>
 
 <br>
 
@@ -142,16 +138,10 @@ resolving endpoints... 3 found
 
 <div align="center">
 
-**[`→ linkedin`](https://www.linkedin.com/in/karima-taira)** &nbsp;&nbsp;·&nbsp;&nbsp; **[`→ email`](mailto:taira.karima21@gmail.com)** &nbsp;&nbsp;·&nbsp;&nbsp; **[`→ github`](https://github.com/KarimaTaira)**
+**[`→ linkedin`](https://www.linkedin.com/in/KarimaTaira)** &nbsp;&nbsp;·&nbsp;&nbsp; **[`→ email`](mailto:taira.karima21@gmail.com)** &nbsp;&nbsp;·&nbsp;&nbsp; **[`→ github`](https://github.com/KarimaTaira)**
 
 </div>
 
 <br>
 
-<div align="center">
-
-<sub>built with ☕, YAML, and a questionable amount of `kubectl`.</sub>
-
-</div>
-
-<img src="./assets/banner_foot.svg" width="100%"/>
+<img src="./assets/banner_footer.svg" width="100%"/>
