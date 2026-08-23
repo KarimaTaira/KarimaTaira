@@ -1,4 +1,4 @@
-<h1 align="center">👾 Hey, I'm Karima</h1>
+<h1 align="center">👾 Hi, I'm Karima Taira</h1>
 
 <p align="center">
   <img src="./assets/karima_pixel_avatar.gif" width="180" alt="Karima pixel avatar">
@@ -9,10 +9,10 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=flat-square&label=Followers">
+  <a href="https://github.com/KarimaTaira">
+    <img src="https://img.shields.io/github/followers/KarimaTaira?style=flat-square&label=Followers">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&label=Profile+Views">
+  <img src="https://komarev.com/ghpvc/?username=KarimaTaira&style=flat-square&label=Profile+Views">
 </p>
 
 <br>
