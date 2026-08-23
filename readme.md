@@ -142,15 +142,13 @@ resolving endpoints... 3 found
 
 <div align="center">
 
-**[`→ linkedin`](https://www.linkedin.com/in/KarimaTaira)** &nbsp;&nbsp;·&nbsp;&nbsp; **[`→ email`](mailto:taira.karima21@gmail.com)** &nbsp;&nbsp;·&nbsp;&nbsp; **[`→ github`](https://github.com/KarimaTaira)**
+**[`→ linkedin`](https://www.linkedin.com/in/karima-taira)** &nbsp;&nbsp;·&nbsp;&nbsp; **[`→ email`](mailto:taira.karima21@gmail.com)** &nbsp;&nbsp;·&nbsp;&nbsp; **[`→ github`](https://github.com/KarimaTaira)**
 
 </div>
 
 <br>
 
 <div align="center">
-
-**[0] whoami&nbsp;&nbsp;&nbsp;[1] skills&nbsp;&nbsp;&nbsp;[2] projects&nbsp;&nbsp;&nbsp;[3] status\*&nbsp;&nbsp;&nbsp;[4] contact**&nbsp;&nbsp;·&nbsp;&nbsp;karima@devops-01&nbsp;&nbsp;·&nbsp;&nbsp;exit 0
 
 <sub>built with ☕, YAML, and a questionable amount of `kubectl`.</sub>
 
