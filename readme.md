@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:121826,100:5CF19E&height=190&section=header&text=karima@devops:~$&fontSize=34&fontColor=5CF19E&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20SRE%20Engineer%20—%20Infra,%20Automation%20%26%20Observability&descAlignY=58&descSize=15&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:121826,100:5CF19E&height=190&section=header&text=karima%40devops%3A~%24&fontSize=34&fontColor=5CF19E&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20SRE%20Engineer%20-%20Infra%2C%20Automation%20%26%20Observability&descAlignY=58&descSize=15&descAlign=50" width="100%"/>
 
-`[0] whoami*  [1] skills  [2] projects  [3] status  [4] contact`   ·   `120×32`   ·   `zsh`
+**[0] whoami\*&nbsp;&nbsp;&nbsp;[1] skills&nbsp;&nbsp;&nbsp;[2] projects&nbsp;&nbsp;&nbsp;[3] status&nbsp;&nbsp;&nbsp;[4] contact**&nbsp;&nbsp;·&nbsp;&nbsp;120×32&nbsp;&nbsp;·&nbsp;&nbsp;zsh
 
 </div>
 
 <br>
 
 <!-- PANE 0 — whoami -->
-`●&nbsp;●&nbsp;●`&nbsp;&nbsp;**bash — pane[0]:whoami — 80×24**
+**● ● ●&nbsp;&nbsp;bash — pane[0]:whoami — 80×24**
 
 <table width="100%">
 <tr>
@@ -39,9 +39,9 @@ $ echo $CURRENT_FOCUS
 </td>
 <td width="34%" align="center" valign="top">
 
-`📹 pane[0b]:webcam.svg — 320×320`
+**pane[0b]:webcam.svg — 320×320**
 
-<img src="./assets/karima_pixel_avatar.svg" width="170" alt="Karima pixel avatar"/>
+<img src="./assets/karima_pixel_avatar_circle.svg" width="170" alt="Karima pixel avatar"/>
 
 `[LIVE]` 🟢 `uptime: 4y`
 
@@ -63,7 +63,7 @@ $ echo $CURRENT_FOCUS
 ---
 
 <!-- PANE 1 — skills -->
-`●&nbsp;●&nbsp;●`&nbsp;&nbsp;**bash — pane[1]:skills — 80×24**
+**● ● ●&nbsp;&nbsp;bash — pane[1]:skills — 80×24**
 
 ```
 $ ls ./skills --group-by=domain
@@ -121,7 +121,7 @@ $ ls ./skills --group-by=domain
 ---
 
 <!-- PANE 2 — projects -->
-`●&nbsp;●&nbsp;●`&nbsp;&nbsp;**bash — pane[2]:projects — 80×24**
+**● ● ●&nbsp;&nbsp;bash — pane[2]:projects — 80×24**
 
 ```
 $ git log --stat --author=karima
@@ -162,7 +162,7 @@ Built GitOps delivery so every release is repeatable, reviewable, and reversible
 ---
 
 <!-- PANE 3 — status -->
-`●&nbsp;●&nbsp;●`&nbsp;&nbsp;**bash — pane[3]:status — 80×24**
+**● ● ●&nbsp;&nbsp;bash — pane[3]:status — 80×24**
 
 <div align="center">
 
@@ -170,17 +170,15 @@ Built GitOps delivery so every release is repeatable, reviewable, and reversible
 $ tail -f ~/status.log
 ```
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KarimaTaira&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0A0E14&title_color=5CF19E&icon_color=F2B84B&text_color=7A8699" />
-<img height="160" src="https://streak-stats.demolab.com?user=KarimaTaira&hide_border=true&theme=tokyonight&background=0A0E14&ring=5CF19E&fire=F2B84B&currStreakLabel=5CF19E" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KarimaTaira&theme=tokyo-night&hide_border=true&bg_color=0A0E14&color=5CF19E&line=5CF19E&point=F2B84B" width="88%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=KarimaTaira&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0A0E14&title_color=5CF19E&icon_color=F2B84B&text_color=7A8699" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimaTaira&layout=compact&hide_border=true&theme=tokyonight&bg_color=0A0E14&title_color=5CF19E&text_color=7A8699" width="35%"/>
 
 </div>
 
 ---
 
 <!-- PANE 4 — contact -->
-`●&nbsp;●&nbsp;●`&nbsp;&nbsp;**bash — pane[4]:contact — 80×24**
+**● ● ●&nbsp;&nbsp;bash — pane[4]:contact — 80×24**
 
 <div align="center">
 
@@ -202,7 +200,7 @@ $ connect --with=karima
 
 <div align="center">
 
-`[0] whoami  [1] skills  [2] projects  [3] status*  [4] contact`   ·   `karima@devops-01`   ·   `exit 0`
+**[0] whoami&nbsp;&nbsp;&nbsp;[1] skills&nbsp;&nbsp;&nbsp;[2] projects&nbsp;&nbsp;&nbsp;[3] status\*&nbsp;&nbsp;&nbsp;[4] contact**&nbsp;&nbsp;·&nbsp;&nbsp;karima@devops-01&nbsp;&nbsp;·&nbsp;&nbsp;exit 0
 
 <sub>built with ☕, YAML, and a questionable amount of `kubectl`.</sub>
 
