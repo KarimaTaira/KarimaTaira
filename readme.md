@@ -2,17 +2,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:121826,100:5CF19E&height=190&section=header&text=karima@devops:~$&fontSize=34&fontColor=5CF19E&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20SRE%20Engineer%20—%20Infra,%20Automation%20%26%20Observability&descAlignY=58&descSize=15&descAlign=50" width="100%"/>
 
+`[0] whoami*  [1] skills  [2] projects  [3] status  [4] contact`   ·   `120×32`   ·   `zsh`
+
 </div>
 
 <br>
 
-<!-- Terminal window: intro + PiP avatar -->
-<table width="100%" style="border-collapse:collapse;">
-<tr><td colspan="2">
+<!-- PANE 0 — whoami -->
+`●&nbsp;●&nbsp;●`&nbsp;&nbsp;**bash — pane[0]:whoami — 80×24**
 
-`● ● ●`  **bash — karima@devops-01 — 120×32**
-
-</td></tr>
+<table width="100%">
 <tr>
 <td width="66%" valign="top">
 
@@ -40,16 +39,16 @@ $ echo $CURRENT_FOCUS
 </td>
 <td width="34%" align="center" valign="top">
 
-`📹 screen-share — avatar.gif`
+`📹 pane[0b]:webcam.svg — 320×320`
 
-<img src="./assets/karima_pixel_avatar.gif" width="180" alt="Karima pixel avatar" style="border-radius:6px;"/>
+<img src="./assets/karima_pixel_avatar.svg" width="170" alt="Karima pixel avatar"/>
 
-<sub>`[LIVE]` 🟢</sub>
+`[LIVE]` 🟢 `uptime: 4y`
 
-<br><br>
+<br>
 
-[![Followers](https://img.shields.io/github/followers/KarimaTaira?style=flat-square&label=followers&color=5CF19E&labelColor=0A0E14)](https://github.com/KarimaTaira)
-![Views](https://komarev.com/ghpvc/?username=KarimaTaira&style=flat-square&color=5CF19E&label=views)
+[![followers](https://img.shields.io/github/followers/KarimaTaira?style=flat-square&label=followers&color=5CF19E&labelColor=0A0E14)](https://github.com/KarimaTaira)
+![views](https://komarev.com/ghpvc/?username=KarimaTaira&style=flat-square&color=5CF19E&labelColor=0A0E14&label=views)
 
 </td>
 </tr>
@@ -63,13 +62,12 @@ $ echo $CURRENT_FOCUS
 
 ---
 
-<div align="center">
+<!-- PANE 1 — skills -->
+`●&nbsp;●&nbsp;●`&nbsp;&nbsp;**bash — pane[1]:skills — 80×24**
 
 ```
 $ ls ./skills --group-by=domain
 ```
-
-</div>
 
 <table width="100%">
 <tr>
@@ -122,13 +120,12 @@ $ ls ./skills --group-by=domain
 
 ---
 
-<div align="center">
+<!-- PANE 2 — projects -->
+`●&nbsp;●&nbsp;●`&nbsp;&nbsp;**bash — pane[2]:projects — 80×24**
 
 ```
 $ git log --stat --author=karima
 ```
-
-</div>
 
 <table width="100%">
 <tr>
@@ -164,6 +161,9 @@ Built GitOps delivery so every release is repeatable, reviewable, and reversible
 
 ---
 
+<!-- PANE 3 — status -->
+`●&nbsp;●&nbsp;●`&nbsp;&nbsp;**bash — pane[3]:status — 80×24**
+
 <div align="center">
 
 ```
@@ -179,6 +179,9 @@ $ tail -f ~/status.log
 
 ---
 
+<!-- PANE 4 — contact -->
+`●&nbsp;●&nbsp;●`&nbsp;&nbsp;**bash — pane[4]:contact — 80×24**
+
 <div align="center">
 
 ```
@@ -187,13 +190,21 @@ $ curl -s https://karima.dev/health | jq
 
 **`{ "cloud": "ok", "kubernetes": "ok", "cicd": "ok", "observability": "ok", "coffee": "critical" }`**
 
-### `$ connect --with=karima`
+```
+$ connect --with=karima
+```
 
 <a href="https://www.linkedin.com/in/KarimaTaira"><img src="https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=5CF19E"></a>
 <a href="mailto:taira.karima21@gmail.com"><img src="https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=F2B84B"></a>
 <a href="https://github.com/KarimaTaira"><img src="https://img.shields.io/badge/GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=5CF19E"></a>
 
-<sub>`exit 0` — built with ☕, YAML, and a questionable amount of `kubectl`.</sub>
+</div>
+
+<div align="center">
+
+`[0] whoami  [1] skills  [2] projects  [3] status*  [4] contact`   ·   `karima@devops-01`   ·   `exit 0`
+
+<sub>built with ☕, YAML, and a questionable amount of `kubectl`.</sub>
 
 </div>
 
