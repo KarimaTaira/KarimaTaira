@@ -1,9 +1,37 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 86" width="100%" height="86">
-<rect width="1200" height="86" rx="12" fill="#0B0F17" stroke="#1F2937"/>
-<rect x="0" y="0" width="1200" height="2" rx="1" fill="#6757c3" opacity="0.35"/>
-<text x="40" y="36" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#6B7A8F">karima@devops-01</text>
-<text x="600.0" y="36" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#6757c3"> push → deploy → observe → improve</text>
-<text x="1160" y="36" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12.5" fill="#6B7A8F">exit 0</text>
-<line x1="40" y1="52" x2="1160" y2="52" stroke="#1F2937"/>
-<text x="600.0" y="72" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11" fill="#6B7A8F">built with ☕, YAML, and a questionable amount of kubectl</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="100%" height="300">
+<defs>
+<linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+<stop offset="0%" stop-color="#6757c3" stop-opacity="0.28"/><stop offset="100%" stop-color="#6757c3" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="300" rx="12" fill="#0B0F17" stroke="#1F2937"/>
+
+<text x="40" y="46" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="26" font-weight="700" fill="#6757c3">karima@devops<tspan fill="#6B7A8F">:~$</tspan></text>
+<text x="1160" y="38" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="13.5" fill="#D3DDE9">Karima Taira — DevOps &amp; SRE Engineer</text>
+<text x="1160" y="56" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="11.5" fill="#6B7A8F">infrastructure · automation · observability</text>
+
+<rect x="40.0" y="74" width="264.0" height="64" rx="8" fill="#111827" stroke="#1F2937"/>
+<rect x="40.0" y="74" width="3" height="64" rx="1.5" fill="#6757c3" opacity="0.85"/>
+<text x="56.0" y="97" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#6B7A8F" letter-spacing="1.5">UPTIME</text>
+<text x="56.0" y="124" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="23" font-weight="700" fill="#6757c3">99.98%</text><rect x="320.0" y="74" width="264.0" height="64" rx="8" fill="#111827" stroke="#1F2937"/>
+<rect x="320.0" y="74" width="3" height="64" rx="1.5" fill="#6757c3" opacity="0.85"/>
+<text x="336.0" y="97" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#6B7A8F" letter-spacing="1.5">DEPLOYS / WK</text>
+<text x="336.0" y="124" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="23" font-weight="700" fill="#6757c3">42</text><rect x="600.0" y="74" width="264.0" height="64" rx="8" fill="#111827" stroke="#1F2937"/>
+<rect x="600.0" y="74" width="3" height="64" rx="1.5" fill="#F2B84B" opacity="0.85"/>
+<text x="616.0" y="97" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#6B7A8F" letter-spacing="1.5">MTTR</text>
+<text x="616.0" y="124" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="23" font-weight="700" fill="#F2B84B">6 min</text><rect x="880.0" y="74" width="264.0" height="64" rx="8" fill="#111827" stroke="#1F2937"/>
+<rect x="880.0" y="74" width="3" height="64" rx="1.5" fill="#6757c3" opacity="0.85"/>
+<text x="896.0" y="97" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#6B7A8F" letter-spacing="1.5">SLO BURN</text>
+<text x="896.0" y="124" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="23" font-weight="700" fill="#6757c3">0.2%</text>
+
+<polygon points="40,248 40.0,210.0 55.6,196.3 71.1,184.6 86.7,176.6 102.2,173.0 117.8,173.6 133.3,177.1 148.9,182.0 164.4,186.6 180.0,189.5 195.6,190.3 211.1,189.3 226.7,187.7 242.2,186.9 257.8,188.6 273.3,193.6 288.9,202.0 304.4,213.0 320.0,224.9 335.6,235.8 351.1,243.6 366.7,247.0 382.2,245.6 397.8,239.9 413.3,231.4 428.9,221.8 444.4,213.3 460.0,207.0 475.6,203.8 491.1,203.1 506.7,204.1 522.2,205.1 537.8,204.6 553.3,201.9 568.9,196.7 584.4,189.9 600.0,183.0 615.6,177.7 631.1,175.9 646.7,178.5 662.2,185.7 677.8,196.6 693.3,209.5 708.9,222.3 724.4,233.1 740.0,240.4 755.6,243.6 771.1,243.2 786.7,240.3 802.2,236.6 817.8,233.7 833.3,232.5 848.9,233.4 864.4,235.7 880.0,237.9 895.6,238.6 911.1,236.2 926.7,230.0 942.2,220.1 957.8,207.4 973.3,193.9 988.9,181.6 1004.4,172.4 1020.0,167.7 1035.6,167.7 1051.1,171.9 1066.7,178.7 1082.2,186.3 1097.8,192.9 1113.3,197.5 1128.9,199.5 1144.4,199.6 1160.0,199.1 1160,248" fill="url(#fade)"/>
+<polyline points="40.0,210.0 55.6,196.3 71.1,184.6 86.7,176.6 102.2,173.0 117.8,173.6 133.3,177.1 148.9,182.0 164.4,186.6 180.0,189.5 195.6,190.3 211.1,189.3 226.7,187.7 242.2,186.9 257.8,188.6 273.3,193.6 288.9,202.0 304.4,213.0 320.0,224.9 335.6,235.8 351.1,243.6 366.7,247.0 382.2,245.6 397.8,239.9 413.3,231.4 428.9,221.8 444.4,213.3 460.0,207.0 475.6,203.8 491.1,203.1 506.7,204.1 522.2,205.1 537.8,204.6 553.3,201.9 568.9,196.7 584.4,189.9 600.0,183.0 615.6,177.7 631.1,175.9 646.7,178.5 662.2,185.7 677.8,196.6 693.3,209.5 708.9,222.3 724.4,233.1 740.0,240.4 755.6,243.6 771.1,243.2 786.7,240.3 802.2,236.6 817.8,233.7 833.3,232.5 848.9,233.4 864.4,235.7 880.0,237.9 895.6,238.6 911.1,236.2 926.7,230.0 942.2,220.1 957.8,207.4 973.3,193.9 988.9,181.6 1004.4,172.4 1020.0,167.7 1035.6,167.7 1051.1,171.9 1066.7,178.7 1082.2,186.3 1097.8,192.9 1113.3,197.5 1128.9,199.5 1144.4,199.6 1160.0,199.1" fill="none" stroke="#6757c3" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+<circle cx="1160.0" cy="199.1" r="4" fill="#6757c3"/>
+<circle cx="1160.0" cy="199.1" r="4" fill="#6757c3" opacity="0.5">
+  <animate attributeName="r" values="4;11;4" dur="2.4s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0.5;0;0.5" dur="2.4s" repeatCount="indefinite"/>
+</circle>
+<line x1="40" y1="248" x2="1160" y2="248" stroke="#1F2937"/>
+<text x="40" y="242" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#6B7A8F">req/s — last 24h</text>
+<text x="1160" y="242" text-anchor="end" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="10.5" fill="#6757c3">● all systems operational</text>
+<rect x="40" y="262" width="103.0" height="24" rx="5" fill="#6757c3" opacity="0.13"/><rect x="40" y="262" width="103.0" height="24" rx="5" fill="none" stroke="#6757c3" stroke-opacity="0.45"/><text x="91.5" y="279" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#6757c3">[0] whoami</text><text x="204.5" y="279" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#6B7A8F">[1] skills</text><text x="325.6" y="279" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#6B7A8F">[2] projects</text><text x="446.7" y="279" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#6B7A8F">[3] status</text><text x="563.75" y="279" text-anchor="middle" font-family="ui-monospace, 'SF Mono', Menlo, Consolas, monospace" font-size="12" fill="#6B7A8F">[4] contact</text>
 </svg>
