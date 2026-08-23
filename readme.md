@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E14,50:121826,100:5CF19E&height=190&section=header&text=karima%40devops%3A~%24&fontSize=34&fontColor=5CF19E&animation=fadeIn&fontAlignY=38&desc=DevOps%20%26%20SRE%20Engineer%20-%20Infra%2C%20Automation%20%26%20Observability&descAlignY=58&descSize=15&descAlign=50" width="100%"/>
+<img src="./assets/banner_header.svg" width="100%"/>
 
 **[0] whoami\*&nbsp;&nbsp;&nbsp;[1] skills&nbsp;&nbsp;&nbsp;[2] projects&nbsp;&nbsp;&nbsp;[3] status&nbsp;&nbsp;&nbsp;[4] contact**&nbsp;&nbsp;·&nbsp;&nbsp;120×32&nbsp;&nbsp;·&nbsp;&nbsp;zsh
 
@@ -9,15 +9,11 @@
 <br>
 
 <!-- PANE 0 — whoami -->
-**● ● ●&nbsp;&nbsp;bash — pane[0]:whoami — 80×24**
+<img src="./assets/headers/pane_whoami.svg" width="100%"/>
 
 <table width="100%">
 <tr>
 <td width="66%" valign="top">
-
-```
-$ whoami
-```
 
 **Karima Taira** — DevOps & SRE Engineer.
 
@@ -39,7 +35,7 @@ $ echo $CURRENT_FOCUS
 </td>
 <td width="34%" align="center" valign="top">
 
-**pane[0b]:webcam.gif — 320×320**
+<img src="./assets/headers/webcam_bar.svg" width="200"/>
 
 <img src="./assets/karima_pixel_avatar_circle.gif" width="170" alt="Karima pixel avatar"/>
 
@@ -48,7 +44,7 @@ $ echo $CURRENT_FOCUS
 <br>
 
 [![followers](https://img.shields.io/github/followers/KarimaTaira?style=flat-square&label=followers&color=5CF19E&labelColor=0A0E14)](https://github.com/KarimaTaira)
-![views](https://komarev.com/ghpvc/?username=KarimaTaira&style=flat-square&color=5CF19E&labelColor=0A0E14&label=views)
+![views](https://komarev.com/ghpvc/?username=KarimaTaira&style=flat-square&color=F2B84B&labelColor=0A0E14&label=views)
 
 </td>
 </tr>
@@ -63,11 +59,7 @@ $ echo $CURRENT_FOCUS
 ---
 
 <!-- PANE 1 — skills -->
-**● ● ●&nbsp;&nbsp;bash — pane[1]:skills — 80×24**
-
-```
-$ ls ./skills --group-by=domain
-```
+<img src="./assets/headers/pane_skills.svg" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -112,20 +104,24 @@ $ ls ./skills --group-by=domain
 </tr>
 </table>
 
-<div align="center">
+```
+$ tree ./stack -L 2
+```
 
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,helm,githubactions,linux,git,prometheus,grafana,python,bash,postgres,nginx&theme=dark" />
-
-</div>
+```
+stack/
+├── cloud/          aws · terraform · eks
+├── containers/     docker · kubernetes · helm
+├── delivery/       github-actions · argo-cd
+├── observability/  prometheus · grafana · loki · tempo
+├── languages/      python · bash
+└── data/           postgres · nginx
+```
 
 ---
 
 <!-- PANE 2 — projects -->
-**● ● ●&nbsp;&nbsp;bash — pane[2]:projects — 80×24**
-
-```
-$ git log --stat --author=karima
-```
+<img src="./assets/headers/pane_projects.svg" width="100%"/>
 
 <table width="100%">
 <tr>
@@ -162,23 +158,20 @@ Built GitOps delivery so every release is repeatable, reviewable, and reversible
 ---
 
 <!-- PANE 3 — status -->
-**● ● ●&nbsp;&nbsp;bash — pane[3]:status — 80×24**
+<img src="./assets/headers/pane_status.svg" width="100%"/>
 
 <div align="center">
 
-```
-$ tail -f ~/status.log
-```
+<img src="https://github-readme-stats.vercel.app/api?username=KarimaTaira&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0A0E14&title_color=5CF19E&icon_color=F2B84B&text_color=7A8699" width="55%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=KarimaTaira&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0A0E14&title_color=5CF19E&icon_color=F2B84B&text_color=7A8699" width="45%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarimaTaira&layout=compact&hide_border=true&theme=tokyonight&bg_color=0A0E14&title_color=5CF19E&text_color=7A8699" width="35%"/>
+<sub>stats card is fetched live from github-readme-stats — if it doesn't load, refresh once; it's a free third-party service that occasionally rate-limits.</sub>
 
 </div>
 
 ---
 
 <!-- PANE 4 — contact -->
-**● ● ●&nbsp;&nbsp;bash — pane[4]:contact — 80×24**
+<img src="./assets/headers/pane_contact.svg" width="100%"/>
 
 <div align="center">
 
@@ -188,13 +181,7 @@ $ curl -s https://karima.dev/health | jq
 
 **`{ "cloud": "ok", "kubernetes": "ok", "cicd": "ok", "observability": "ok", "coffee": "critical" }`**
 
-```
-$ connect --with=karima
-```
-
-<a href="https://www.linkedin.com/in/KarimaTaira"><img src="https://img.shields.io/badge/LinkedIn-0A0E14?style=for-the-badge&logo=linkedin&logoColor=5CF19E"></a>
-<a href="mailto:taira.karima21@gmail.com"><img src="https://img.shields.io/badge/Email-0A0E14?style=for-the-badge&logo=gmail&logoColor=F2B84B"></a>
-<a href="https://github.com/KarimaTaira"><img src="https://img.shields.io/badge/GitHub-0A0E14?style=for-the-badge&logo=github&logoColor=5CF19E"></a>
+**[`→ linkedin`](https://www.linkedin.com/in/KarimaTaira)** &nbsp;&nbsp;·&nbsp;&nbsp; **[`→ email`](mailto:taira.karima21@gmail.com)** &nbsp;&nbsp;·&nbsp;&nbsp; **[`→ github`](https://github.com/KarimaTaira)**
 
 </div>
 
@@ -206,4 +193,4 @@ $ connect --with=karima
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5CF19E,100:0A0E14&height=90&section=footer" width="100%"/>
+<img src="./assets/banner_footer.svg" width="100%"/>
