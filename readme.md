@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner_header.svg" width="100%"/>
+<img src="./assets/banner_head.svg" width="100%"/>
 
 **[0] whoami\*&nbsp;&nbsp;&nbsp;[1] skills&nbsp;&nbsp;&nbsp;[2] projects&nbsp;&nbsp;&nbsp;[3] status&nbsp;&nbsp;&nbsp;[4] contact**&nbsp;&nbsp;·&nbsp;&nbsp;120×32&nbsp;&nbsp;·&nbsp;&nbsp;zsh
 
@@ -158,4 +158,4 @@ resolving endpoints... 3 found
 
 </div>
 
-<img src="./assets/banner_footer.svg" width="100%"/>
+<img src="./assets/banner_foot.svg" width="100%"/>
