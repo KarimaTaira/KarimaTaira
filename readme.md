@@ -37,7 +37,7 @@ up 4 years,  load average: 0.42, 0.31, 0.28
 
 `[LIVE]` 🟢
 
-[![followers](https://img.shields.io/github/followers/KarimaTaira?style=flat-square&label=followers&color=5CF19E&labelColor=0A0E14)](https://github.com/KarimaTaira)
+[![followers](https://img.shields.io/github/followers/KarimaTaira?style=flat-square&label=followers&color=6757c3&labelColor=0A0E14)](https://github.com/KarimaTaira)
 ![views](https://komarev.com/ghpvc/?username=KarimaTaira&style=flat-square&color=F2B84B&labelColor=0A0E14&label=views)
 
 </td>
@@ -46,7 +46,7 @@ up 4 years,  load average: 0.42, 0.31, 0.28
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=5CF19E&center=true&vCenter=true&width=660&lines=kubectl+apply+-f+reliability.yaml;terraform+plan+%E2%86%92+terraform+apply+%E2%86%92+sleep;observability+is+not+optional;git+push+%E2%86%92+deploy+%E2%86%92+observe+%E2%86%92+improve" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=3000&pause=900&color=6757c3&center=true&vCenter=true&width=660&lines=observability+is+not+optional;git+push+%E2%86%92+deploy+%E2%86%92+observe+%E2%86%92+improve" alt="Typing SVG" />
 
 </div>
 
